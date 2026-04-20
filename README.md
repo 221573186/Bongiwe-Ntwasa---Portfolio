@@ -71,6 +71,9 @@ Phone : 083-246-3139
 email : sinesiphomkuyana3@gmail.com
 
 ---
+## Curriculum Vitae
+[View my CV](https://github.com/221573186/221573186.github.oi.git)
+
 
 # Reflection on Coding in Markdown – STAR Method
 
@@ -87,6 +90,7 @@ I used GitHub Flavored Markdown (GFM) to add headings, lists, links, and code bl
 My CV is now easy to read on GitHub, version‑controllable, and automatically formatted on GitHub Pages.
 
 ---
+
 ### Mock Interview Video
 [Watch my Mock Interview]( https://youtube.com/shorts/oX4cv_uA7ik?feature=share)
 
