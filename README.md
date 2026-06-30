@@ -92,7 +92,15 @@ My CV is now easy to read on GitHub, version‑controllable, and automatically f
 ---
 
 ### Mock Interview Video
-[Watch my Mock Interview]( https://youtube.com/shorts/oX4cv_uA7ik?feature=share)
+
+
+<iframe width="315" height="560" 
+  src="https://www.youtube.com/embed/oX4cv_uA7ik" 
+  title="Mock Interview" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 # Reflection on Mock Interview – STAR Method
 
